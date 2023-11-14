@@ -1,0 +1,94 @@
+
+.Top{
+  margin-top: 0;
+}
+.col{
+  display:flex;
+  margin: 10px;
+  padding: 5px;
+  justify-content: flex-start;
+align-items: center;
+  
+}
+
+.sp{
+  display:flex;
+  margin: 10px;
+  padding: 5px;
+  justify-content: flex-start;
+}
+
+.box{
+  display:flex;
+  margin: 10px;
+  padding: 10px;
+  justify-content: flex-start;
+  align-items: center;
+  border: 0px solid black;
+  border-radius: 5px;
+  width: 100%;
+  height: 150px;
+  background-color: #f2f2f2;
+}
+
+.p{
+  
+}
+
+.br{
+  border:none;
+}
+
+.Side{
+  margin: 80px;
+  font-size: x-large;
+  display: flexbox;
+  color:#fff;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+}
+.mid{
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  padding:20px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+}
+
+.mids{
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  padding:10px;
+  width:900px;
+  height:500px;
+}
+
+.mid1{
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  padding:10px;
+  width:900px;
+  height:60px;
+ 
+  
+
+}
+.hover1{
+  color: #fff;
+  background-color: RGB(var(--bs-dark-rgb),var(--bs-bg-opacity,1))!important;
+}
+.hover1:hover{
+  background-color: rgb(195, 195, 25) 61, 50;
+
+}
+
+.hover1:active{
+  background-color: #5a2020;
+}
+
